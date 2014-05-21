@@ -1,0 +1,8 @@
+.DS_Store
+.project
+.buildpath
+.settings
+.classpath
+
+bin
+!bin/.gitkeep
